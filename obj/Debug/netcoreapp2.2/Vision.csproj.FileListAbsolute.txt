@@ -1,0 +1,14 @@
+C:\Users\akurb\source\repos\Vision\Vision\bin\Debug\netcoreapp2.2\Vision.deps.json
+C:\Users\akurb\source\repos\Vision\Vision\bin\Debug\netcoreapp2.2\Vision.runtimeconfig.json
+C:\Users\akurb\source\repos\Vision\Vision\bin\Debug\netcoreapp2.2\Vision.runtimeconfig.dev.json
+C:\Users\akurb\source\repos\Vision\Vision\bin\Debug\netcoreapp2.2\Vision.dll
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.csprojAssemblyReference.cache
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.csproj.CoreCompileInputs.cache
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.RazorAssemblyInfo.cache
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.RazorAssemblyInfo.cs
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.AssemblyInfoInputs.cache
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.AssemblyInfo.cs
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.RazorTargetAssemblyInfo.cache
+C:\Users\akurb\source\repos\Vision\Vision\bin\Debug\netcoreapp2.2\Vision.pdb
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.dll
+C:\Users\akurb\source\repos\Vision\Vision\obj\Debug\netcoreapp2.2\Vision.pdb
